@@ -56,6 +56,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Live [Demo](https://modernweb3.netlify.app/)
+
 ## Features:
 
 - [x] Web3 Wallet Status (MetaMask / Rainbow / Coinbase Wallet / WalletConnect)
